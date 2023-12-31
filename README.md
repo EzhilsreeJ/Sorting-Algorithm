@@ -58,7 +58,8 @@ insertion_sort(list_of_nums)
 ```
 
 ## Output:
-![image](https://github.com/EzhilsreeJ/Sorting-Algorithm/assets/144870412/cdaa005a-fa94-40ff-8eea-2273f6daa2fe)
+![image](https://github.com/EzhilsreeJ/Sorting-Algorithm/assets/144870412/e75740d4-8a34-4857-8d8d-b0a18271d112)
+
 ![image](https://github.com/EzhilsreeJ/Sorting-Algorithm/assets/144870412/fcd8f0f4-f02f-4f76-9836-4c1986df2f18)
 
 ## Result:
